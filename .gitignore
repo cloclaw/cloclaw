@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# База знаний (исключаем документы пользователей)
+/knowledge_base/documents/
+/knowledge_base/*.db
+
+# SSH ключи (никогда не коммитить!)
+*.pem
+*.key
