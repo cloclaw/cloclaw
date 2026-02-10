@@ -1,9 +1,0 @@
-telegram:
-  token: "YOUR_BOT_TOKEN_HERE"  # Получить у @BotFather
-
-ollama:
-  url: "http://localhost:11434"
-  model: "llama3.2"
-
-knowledge_base:
-  path: "./knowledge_base"
